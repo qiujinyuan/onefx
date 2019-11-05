@@ -81,7 +81,7 @@
     "nyc": "14.1.1",
     "prettier": "1.18.2",
     "ts-node": "8.4.1",
-    "pretty-quick": "1.11.1",
+    "pretty-quick": "2.0.1",
     "standard-version": "7.0.0",
     "tslint": "5.20.0",
     "tslint-config-prettier": "1.18.0",
